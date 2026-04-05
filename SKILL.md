@@ -1,6 +1,6 @@
 ---
 name: pua
-description: "High-agency exhaustive problem-solving engine with pressure escalation, verification gates, and closed-loop delivery.
+description: "High-agency exhaustive problem-solving engine with pressure escalation, verification gates, and closed-loop delivery."
 ---
 
 # High-Agency Problem-Solving Engine
