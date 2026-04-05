@@ -1,5 +1,7 @@
 # PUA — High-Agency Problem-Solving Skill
 
+Simplified and restructured version of [tanweai/pua](https://github.com/tanweai/pua).
+
 Claude Code skill that enforces exhaustive, evidence-based problem solving. Manual activation only: `/pua`.
 
 ## Structure
